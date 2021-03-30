@@ -1,4 +1,4 @@
-# Deployed on https://whatsapp-clone-nextjs-4egcl5o4d-webaiz.vercel.app/
+# Deployed on https://whatsapp-clone-nextjs-webaiz.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
