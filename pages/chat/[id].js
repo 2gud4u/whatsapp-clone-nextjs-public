@@ -21,6 +21,7 @@ function Chat({ chat, messages }) {
 }
 
 export default Chat;
+
 export async function getServerSideProps(context) {
 	const ref = db.collection('chats').doc(context.query.id);
 	// Prep the messages on the server side
